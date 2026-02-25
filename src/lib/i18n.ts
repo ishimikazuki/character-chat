@@ -19,7 +19,7 @@ const translations = {
       newCharacter: '新規作成',
       edit: '編集',
       delete: '削除',
-      preview: 'プレビュー',
+      previewBtn: 'プレビュー',
       upload: {
         title: '新規キャラクター作成',
         name: 'キャラクター名',
@@ -36,7 +36,7 @@ const translations = {
         submit: '作成する',
         save: '保存する',
       },
-      preview: {
+      previewPage: {
         title: 'プレビュー',
         publish: 'パブリッシュ',
         backToEdit: '編集に戻る',
@@ -70,7 +70,7 @@ const translations = {
       newCharacter: 'New Character',
       edit: 'Edit',
       delete: 'Delete',
-      preview: 'Preview',
+      previewBtn: 'Preview',
       upload: {
         title: 'Create New Character',
         name: 'Character Name',
@@ -87,7 +87,7 @@ const translations = {
         submit: 'Create',
         save: 'Save',
       },
-      preview: {
+      previewPage: {
         title: 'Preview',
         publish: 'Publish',
         backToEdit: 'Back to Edit',

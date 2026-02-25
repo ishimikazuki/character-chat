@@ -44,7 +44,7 @@ export default function CharacterCard({ character, mode, onDelete, t }: Characte
             </Link>
             <Link href={`/creator/preview/${character.id}`} className="flex-1">
               <button className="w-full btn-gradient text-sm py-2">
-                {t('creator.preview')}
+                {t('creator.previewBtn')}
               </button>
             </Link>
             {onDelete && (
